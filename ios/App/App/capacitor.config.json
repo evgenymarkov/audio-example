@@ -1,0 +1,6 @@
+{
+	"appId": "ru.yandex.sdg.launcher",
+	"appName": "audio-example",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
