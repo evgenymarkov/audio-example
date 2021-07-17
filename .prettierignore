@@ -1,0 +1,10 @@
+# Vite
+dist/
+dist-ssr/
+
+# Dependencies
+node_modules/
+
+# Project settings
+package.json
+package-lock.json

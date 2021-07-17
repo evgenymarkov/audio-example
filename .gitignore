@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Secrets
+*.local
+
+# Vite
+dist/
+dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
